@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, world; 👋
 
 <!--
 **alexgelman/alexgelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![alexgelman's github stats](https://github-readme-stats.vercel.app/api?username=alexgelman&show_icons=true&theme=highcontrast)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgelman&layout=compact&theme=highcontrast)](https://github.com/alexgelman?tab=repositories)
